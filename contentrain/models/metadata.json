@@ -142,5 +142,13 @@
     "type": "MDX",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "qwewqe",
+    "modelId": "qwewqe",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
