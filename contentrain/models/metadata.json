@@ -126,5 +126,13 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "213qwe",
+    "modelId": "213qwe",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
