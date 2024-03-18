@@ -134,5 +134,13 @@
     "type": "MD",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "ww",
+    "modelId": "ww",
+    "localization": false,
+    "type": "MDX",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
